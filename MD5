@@ -1,0 +1,9 @@
+85f305f3af0e6f65796b53c10fdcaf89 *DESCRIPTION
+24f35125e9b197f03ffca3182fcf3fff *NAMESPACE
+7b00f2b025ef1bea5e27b0f9cadfe047 *R/mcci.R
+90e21f1cf8389329018a48b7682921b6 *build/vignette.rds
+f6bc1a6b410c43694fee43f2ecf7e5da *inst/doc/anomo.R
+af411b877633c88873284d7e02e48e24 *inst/doc/anomo.Rmd
+5e7c23930dbc05c0bed770acc858b63a *inst/doc/anomo.html
+0df060769d367514c3de1f5b432df5e9 *man/mcci.Rd
+af411b877633c88873284d7e02e48e24 *vignettes/anomo.Rmd
